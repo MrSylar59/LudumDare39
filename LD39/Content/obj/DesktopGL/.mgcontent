@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Powerup.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Hitbox.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Powerdown.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Wall.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Floor.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Level.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Fonts/Pixeled.spritefont</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Lightmask.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Fonts/PixeledTitle.spritefont</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Fonts/PixeledSubTitle.spritefont</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Evil.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/PlayerIdle.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/PlayerWalkDown.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/PlayerWalkUp.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/PlayerWalkRight.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/PlayerWalkLeft.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/PlayerHurt.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Wall2.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Floor2.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/Floor3.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Sounds/PlayerHurt.wav</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Sounds/PowerUp.wav</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Sounds/Whispers.wav</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Fonts/PixeledLittle.spritefont</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/GameOver.png</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Sounds/MainMusic.wav</File>
+    <File>C:/Users/Thomas/documents/LudumDare/LD39/LD39/Content/Images/MainMenu.png</File>
+  </SourceFiles>
+</SourceFileCollection>
